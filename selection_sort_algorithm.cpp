@@ -23,6 +23,7 @@ void selectionSort(int array[], int size){
             }
         }
         swap(&array[minimum], &array[i]);
+        
     }
 }
 
